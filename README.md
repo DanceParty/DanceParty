@@ -15,5 +15,6 @@
 
 <img height="15" src="https://chambermaster.blob.core.windows.net/images/customers/693/members/1441/logos/MEMBER_PAGE_HEADER/CORE-Construction-Logo1.png"> Software Developer at <a href="https://www.coreconstruction.com/">CORE Construction</a>
 
-[![HitCount](http://hits.dwyl.com/DanceParty/{project}.svg)](http://hits.dwyl.com/DanceParty/DanceParty)
+[![HitCount](http://hits.dwyl.com/DanceParty/DanceParty.svg)](http://hits.dwyl.com/DanceParty/DanceParty)
+
 
