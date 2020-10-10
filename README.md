@@ -8,7 +8,7 @@
 
 --------
 <a href="https://github.com/kittinan/spotify-github-profile">
-  <img height="350" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=jkd65&cover_image=true">
+  <img height="300" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=jkd65&cover_image=true">
 </a>
 
 - <img height="17" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">  Currently a Software Engineer at <a href="https://github.com">GitHub</a>
