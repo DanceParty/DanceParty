@@ -5,6 +5,8 @@
 
 --------
 
+<img height="250" align="right" src="https://octodex.github.com/images/original.png">
+
 ### Currently
 <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"> Software Engineer at <a href="https://github.com">GitHub</a>
 
@@ -16,6 +18,8 @@
 <img height="15" src="https://chambermaster.blob.core.windows.net/images/customers/693/members/1441/logos/MEMBER_PAGE_HEADER/CORE-Construction-Logo1.png"> Software Developer at <a href="https://www.coreconstruction.com/">CORE Construction</a>
 
 ---------
+
+<img height="250" align="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif">
 
 ### Interests
 <img height="15" src="https://w7.pngwing.com/pngs/91/823/png-transparent-starcraft-ii-wings-of-liberty-starcraft-brood-war-zerg-sarah-kerrigan-terran-starcraft-rush-starcraft-starcraft-brood-war-thumbnail.png"> <a href="https://www.rankedftw.com/team/315404/#td=world&ty=c&ra=best&tyz=0&tx=a&tl=1">Starcraft II</a>
