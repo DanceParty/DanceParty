@@ -1,5 +1,8 @@
 <h2 align="center">Hi, I'm danceparty!</h2>
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanceParty&color=ff69b4&label=oddish+leaves">
+</p>
+<p align="center">
   <img src="https://i.redd.it/egeh5vkddur01.gif">
 </p>
 
@@ -18,3 +21,5 @@
 - 👾 Keeping busy during quarantine by grinding <a href="https://www.rankedftw.com/team/315404/#td=world&ty=c&ra=best&tyz=0&tx=a&tl=1">Starcraft II</a>, Valorant, and League of Legends
 
 - 👩‍🎤 I love listening to new <a href="https://www.last.fm/user/keevandance">music</a>
+
+- 🇰🇷 I am trying to get my Korean to a conversational level (still far away)
