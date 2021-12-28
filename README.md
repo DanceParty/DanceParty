@@ -13,14 +13,14 @@
 
 - <img height="17" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">  Currently a Software Engineer at <a href="https://github.com">GitHub</a>
 
-- 👨‍💻 Previously a Software Engineer at <a href="https://appcenter.ms">Microsoft</a>, <a href="https://www.allstate.com/landingpages/virtual-assist.htm">Allstate</a>, and <a href="https://www.coreconstruction.com/">CORE Construction</a>
+In 2022 I plan to...
 
-- 🏃‍♂️ Recently interested in Running and plan on doing a marathon Spring 2021
+- 🇰🇷 Move to Korea, I guess it's time to really start learning korean!
 
-- 🧗‍♂️ Trying to get back into Bouldering when COVID let's up a little bit
+- 🏃‍♂️ Get back into running (I have been so lazy and unreliable in excercising during covid ☹️)
 
-- 👾 Keeping busy during quarantine by grinding <a href="https://www.rankedftw.com/team/315404/#td=world&ty=c&ra=best&tyz=0&tx=a&tl=1">Starcraft II</a>, Valorant, and League of Legends
+- 🧗‍♂️ Get back into climbing (same thing as above)
 
-- 👩‍🎤 I love listening to new <a href="https://www.last.fm/user/keevandance">music</a>
+- 👾 Continue my journey of learning how to play Dota 2 (2 months in as of Jan 1st)
 
-- 🇰🇷 I am trying to get my Korean to a conversational level (still far away)
+- 👩‍🎤 I will still keep listening to new <a href="https://www.last.fm/user/keevandance">music</a>
