@@ -15,14 +15,14 @@
 
 --------
 
-In 2022 I plan to...
+In 2023 I plan to...
 
-- 🇰🇷 Move to Korea, I guess it's time to really start learning korean!
+- 🇰🇷 Moved to Korea!
 
-- 🏃‍♂️ Get back into running (I have been so lazy and unreliable in excercising during covid ☹️)
+- 🏃‍♂️ Took some long-term time off work to study Korean full time.
 
-- 🧗‍♂️ Get back into climbing (same thing as above)
+- 🧗‍♂️ Got back into Soccer
 
-- 👾 Continue my journey of learning how to play Dota 2 (2 months in as of Jan 1st)
+- 💰 Started working on my person-finance personal project.
 
 - 👩‍🎤 I will still keep listening to new <a href="https://www.last.fm/user/keevandance">music</a>
