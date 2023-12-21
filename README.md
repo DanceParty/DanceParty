@@ -19,9 +19,9 @@ In 2023 I...
 
 - 🇰🇷 Moved to Korea!
 
-- 🏃‍♂️ Took some long-term time off work to study Korean full time.
+- 🌏 Took some long-term time off work to study Korean full time.
 
-- 🧗‍♂️ Got back into Soccer
+- ⚽ Got back into Soccer
 
 - 💰 Started working on my personal-finance personal project.
 
