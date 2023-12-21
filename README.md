@@ -15,7 +15,7 @@
 
 --------
 
-In 2023 I plan to...
+In 2023 I...
 
 - 🇰🇷 Moved to Korea!
 
@@ -23,6 +23,6 @@ In 2023 I plan to...
 
 - 🧗‍♂️ Got back into Soccer
 
-- 💰 Started working on my person-finance personal project.
+- 💰 Started working on my personal-finance personal project.
 
 - 👩‍🎤 I will still keep listening to new <a href="https://www.last.fm/user/keevandance">music</a>
