@@ -23,6 +23,6 @@ In 2023 I...
 
 - ⚽ Got back into Soccer
 
-- 💰 Started working on my personal-finance personal project.
+- 💰 Started working on my personal-finance project, [banktree](https://banktree.app), not quite at MVP yet.
 
 - 👩‍🎤 I will still keep listening to new <a href="https://www.last.fm/user/keevandance">music</a>
