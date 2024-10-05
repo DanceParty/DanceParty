@@ -7,22 +7,23 @@
 </p>
 
 --------
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img height="300" align="right" src="https://spotify-github-profile.vercel.app/api/view?uid=jkd65&cover_image=true">
-</a>
 
 **Previously a Software Engineer at <a href="https://github.com">GitHub</a> and Microsoft's <a href="https://appcenter.ms/">App Center</a>.**
 
 --------
 
-In 2023 I...
+In 2024 I...
 
-- 🇰🇷 Moved to Korea!
+- 💻 Started working again: https://devblogs.microsoft.com/devops/managed-devops-pools/
 
-- 🌏 Took some long-term time off work to study Korean full time.
+- 🇰🇷 Am still hanging in Korea
 
-- ⚽ Got back into Soccer
+- 🌏 Got lazy on my Korean learning
 
-- 💰 Started working on my personal-finance project, [banktree](https://banktree.app), not quite at MVP yet.
+- ⚽ Still grinding soccer every saturday
+
+- 🏃‍♂️ Started running very consistently 
+
+- 💰 Continued working on my personal-finance project, [banktree](https://banktree.app), not quite at MVP yet.
 
 - 👩‍🎤 I will still keep listening to new <a href="https://www.last.fm/user/keevandance">music</a>
