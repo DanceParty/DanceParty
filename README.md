@@ -12,18 +12,10 @@
 
 --------
 
-In 2024 I...
-
-- 💻 Started working again: https://devblogs.microsoft.com/devops/managed-devops-pools/
-
-- 🇰🇷 Am still hanging in Korea
-
-- 🌏 Got lazy on my Korean learning
-
-- ⚽ Still grinding soccer every saturday
-
-- 🏃‍♂️ Started running very consistently 
-
-- 💰 Continued working on my personal-finance project, [banktree](https://banktree.app), not quite at MVP yet.
-
-- 👩‍🎤 I will still keep listening to new <a href="https://www.last.fm/user/keevandance">music</a>
+These days I'm either
+- 💻 Working on [Managed DevOps Pools](https://devblogs.microsoft.com/devops/managed-devops-pools/)
+- 🇰🇷 Studying Korean
+- 🏃‍♂️ Running ([Strava](https://www.strava.com/athletes/26654899))
+- ⚽ Playing Soccer on my 조기축구 team
+- 💰 Building [banktree](https://banktree.app) (not quite MVP)
+- 👩‍🎤 And doing all of the above while listening to <a href="https://www.last.fm/user/keevandance">music</a>
