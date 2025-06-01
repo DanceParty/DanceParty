@@ -8,7 +8,7 @@
 
 --------
 
-**Previously a Software Engineer at <a href="https://github.com">GitHub</a> and Microsoft's <a href="https://appcenter.ms/">App Center</a>.**
+**Building Microsoft's Managed DevOps Pools**
 
 --------
 
